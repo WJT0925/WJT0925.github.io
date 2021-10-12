@@ -1,4 +1,6 @@
-### <center>My Bioinformation Learning Page</center>
+### <p align="center">
+My Bioinformation Learning Page
+</p>
 ![](Andromeda_ZH-CN1967953496_1920x1080.jpg)
 
 ## 基因组

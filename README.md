@@ -18,6 +18,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](Andromeda_ZH-CN1967953496_1920x1080.jpg)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 https://raw.githubusercontent.com/WJT0925/WJT0925.github.io/images/Andromeda_ZH-CN1967953496_1920x1080.jpg
 ```
 

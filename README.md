@@ -35,4 +35,4 @@
 * [R](https://github.com/WJT0925/my-R)
 
 
-Contect me: [My email](wangjingtian@stu.xmu.edu.cn)
+Contect me: wangjingtian@stu.xmu.edu.cn

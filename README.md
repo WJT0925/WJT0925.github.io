@@ -4,4 +4,4 @@
 ###生信软件
 [pacbio测序基因组组装软件CANU](https://github.com/WJT0925/pacbio-assemble-canu)
 
-[My email](wangjingtian@stu.xmu.edu.cn)
+Contect me: [My email](wangjingtian@stu.xmu.edu.cn)

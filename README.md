@@ -16,7 +16,7 @@
 
  * [短片段比较bwa](https://github.com/WJT0925/bwa)
  * [大片段比较LASTZ](https://github.com/WJT0925/lastz)
- * [适用多平台测序结果大片段比对](https://github.com/WJT0925/minimap2)
+ * [适用多平台测序结果大片段比对minimap2](https://github.com/WJT0925/minimap2)
 
 ## 转录组
 

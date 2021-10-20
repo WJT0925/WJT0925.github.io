@@ -22,10 +22,19 @@
 
 ### 组装
  * [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki)
+ Trinity assembles transcript sequences from Illumina RNA-Seq data.
+ * [megahit](https://github.com/voutcn/megahit)
+ MEGAHIT is an ultra-fast and memory-efficient NGS assembler. It is optimized for metagenomes, but also works well on generic single genome assembly (small or mammalian size) and single-cell assembly.
 
 ## 注释
- * 蛋白数据库uniprot,GO term注释,KEGG注释,pfam注释[interproscan](https://interproscan-docs.readthedocs.io/en/latest/Introduction.html)
- * nr,nt,swissprot数据库[ncbi nr](https://ftp.ncbi.nih.gov/blast/db/FASTA/)
+ * [Diamond](https://github.com/bbuchfink/diamond)
+ DIAMOND is a sequence aligner for protein and translated DNA searches, designed for high performance analysis of big sequence data.
+ * [interproscan](https://interproscan-docs.readthedocs.io/en/latest/Introduction.html)
+ 蛋白数据库uniprot,GO term注释,KEGG注释,pfam注释
+ * [ncbi nr](https://ftp.ncbi.nih.gov/blast/db/FASTA/)
+ nr,nt,swissprot数据库
+ * [eggNOG-mapper](https://github.com/eggnogdb/eggnog-mapper)
+ EggNOG-mapper is a tool for fast functional annotation of novel sequences. It uses precomputed orthologous groups and phylogenies from the eggNOG database (http://eggnog5.embl.de) to transfer functional information from fine-grained orthologs only.
 
 ### 定量
  * [RSEM](https://github.com/WJT0925/Transcriptome_expression_RSEM)

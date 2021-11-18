@@ -38,7 +38,9 @@
 
 ### 定量
  * [RSEM](https://github.com/WJT0925/Transcriptome_expression_RSEM)
-
+### 差异表达
+ * [有重复DESeq](https://github.com/snakemake-workflows/rna-seq-star-deseq2/releases/tag/v1.2.0)
+ * [无重复edgeR](https://www.jianshu.com/p/0e1ad0cc4ce6)
 ## 宏基因组&宏转录组
 
  * [QIIME2](https://github.com/WJT0925/QIIME2ChineseManual/tree/master/docs)
